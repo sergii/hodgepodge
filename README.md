@@ -69,11 +69,11 @@ Interesting Resourses
 
 # Unsorted
 
-http://www.ozon.ru/context/detail/id/1573723/
-http://habrahabr.ru/post/120079/
-http://gaslight.co/blog/6-ways-to-remove-pain-from-feature-testing-in-ruby-on-rails
-https://leanpub.com/everydayrailsrspec
-http://blog.arkency.com/2013/09/testing-client-side-views-in-rails-apps
-http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
-http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
-http://erik.debill.org/2011/03/26/csing-backup-with-rails
+* http://www.ozon.ru/context/detail/id/1573723/
+* http://habrahabr.ru/post/120079/
+* http://gaslight.co/blog/6-ways-to-remove-pain-from-feature-testing-in-ruby-on-rails
+* https://leanpub.com/everydayrailsrspec
+* http://blog.arkency.com/2013/09/testing-client-side-views-in-rails-apps
+* http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
+* http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
+* http://erik.debill.org/2011/03/26/csing-backup-with-rails
