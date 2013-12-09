@@ -10,6 +10,8 @@ Personal
 * [excid3.com](http://excid3.com/)
 * [vredniy.ru](http://vredniy.ru/)
 * [leonid.shevtsov.me](http://leonid.shevtsov.me/ru)
+* [staal.io](http://staal.io/)
+* [whitequark.org](http://whitequark.org/)
 * [evasive.ru](http://evasive.ru/)
 * [codebeerstartups.com](http://www.codebeerstartups.com/)
 * [zachinglis.com](http://zachinglis.com/)
@@ -66,6 +68,8 @@ Interesting Resourses
 
 * [leonid-shevtsov](https://github.com/leonid-shevtsov)
 * [vredniy](https://github.com/vredniy)
+* [evilmartians](https://github.com/evilmartians)
+* [smartkiosk](https://github.com/smartkiosk)
 
 # Unsorted
 
