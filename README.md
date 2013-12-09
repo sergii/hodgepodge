@@ -81,3 +81,7 @@ Interesting Resourses
 * http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
 * http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
 * http://erik.debill.org/2011/03/26/csing-backup-with-rails
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sergii/hodgepodge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
