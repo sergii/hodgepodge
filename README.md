@@ -29,6 +29,7 @@ Personal
 * [erik.debill.org](http://erik.debill.org/)
 * [blog.lukmus.ru](http://blog.lukmus.ru/)
 * [railsadventures.wordpress.com](http://railsadventures.wordpress.com/)
+* [tech.tulentsev.com](http://tech.tulentsev.com/)
 
 Company's
 
