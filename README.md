@@ -28,6 +28,7 @@ Personal
 * [learnaholic.me](http://learnaholic.me/)
 * [erik.debill.org](http://erik.debill.org/)
 * [blog.lukmus.ru](http://blog.lukmus.ru/)
+* [railsadventures.wordpress.com](http://railsadventures.wordpress.com/)
 
 Company's
 
@@ -71,6 +72,7 @@ Interesting Resourses
 * [vredniy](https://github.com/vredniy)
 * [evilmartians](https://github.com/evilmartians)
 * [smartkiosk](https://github.com/smartkiosk)
+* [github.com/RailsApps](https://github.com/RailsApps)
 
 # Unsorted
 
@@ -82,6 +84,7 @@ Interesting Resourses
 * http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
 * http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
 * http://erik.debill.org/2011/03/26/csing-backup-with-rails
+* http://railsadventures.wordpress.com/2013/09/25/11-steps-to-make-your-rspec-specs-awesome/?utm_source=rubyweekly&utm_medium=email
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sergii/hodgepodge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
