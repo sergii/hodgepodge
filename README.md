@@ -55,6 +55,8 @@ Company's
 * [blog.engineyard.com](http://blog.engineyard.com/)
 * [wekeroad.com](http://www.wekeroad.com)
 * [infinum.co/the-capsized-eight](http://www.infinum.co/the-capsized-eight)
+* [blog.remarkablelabs.com](http://blog.remarkablelabs.com/)
+* [engine.centralway.com](http://engine.centralway.com/)
 
 Interesting Resourses
 
