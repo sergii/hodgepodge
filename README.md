@@ -53,6 +53,7 @@ Company's
 * [everydayrails.com](http://everydayrails.com/)
 * [blog.engineyard.com](http://blog.engineyard.com/)
 * [wekeroad.com](http://www.wekeroad.com)
+* [infinum.co/the-capsized-eight](http://www.infinum.co/the-capsized-eight)
 
 Interesting Resourses
 
