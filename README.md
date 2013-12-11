@@ -91,6 +91,8 @@ Interesting Resourses
 * http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
 * http://erik.debill.org/2011/03/26/csing-backup-with-rails
 * http://railsadventures.wordpress.com/2013/09/25/11-steps-to-make-your-rspec-specs-awesome/?utm_source=rubyweekly&utm_medium=email
+* http://www.alfajango.com/blog/rails-3-remote-links-and-forms/
+* http://www.alfajango.com/blog/rails-3-remote-links-and-forms-data-type-with-jquery/
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sergii/hodgepodge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
