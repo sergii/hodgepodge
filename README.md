@@ -59,6 +59,7 @@ Company's
 * [blog.remarkablelabs.com](http://blog.remarkablelabs.com/)
 * [engine.centralway.com](http://engine.centralway.com/)
 * [blog.codeschool.com](http://blog.codeschool.com/)
+* [alfajango.com/blog](http://www.alfajango.com/blog)
 
 Interesting Resourses
 
