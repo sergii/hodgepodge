@@ -58,6 +58,7 @@ Company's
 * [infinum.co/the-capsized-eight](http://www.infinum.co/the-capsized-eight)
 * [blog.remarkablelabs.com](http://blog.remarkablelabs.com/)
 * [engine.centralway.com](http://engine.centralway.com/)
+* [blog.codeschool.com](http://blog.codeschool.com/)
 
 Interesting Resourses
 
