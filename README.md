@@ -76,6 +76,7 @@ Interesting Resourses
 I18n
 
 * [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
+* [robots.thoughtbot.com/introducing-copycopter](http://robots.thoughtbot.com/introducing-copycopter)
 
 Training Program
 
