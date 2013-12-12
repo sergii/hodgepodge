@@ -73,6 +73,14 @@ Interesting Resourses
 * [thunderboltlabs](thunderboltlabs)
 * [seesparkbox.com/about](http://seesparkbox.com/about)_
 
+I18n
+
+* [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
+
+Training Program
+
+* [thisismetis.com](http://www.thisismetis.com/)
+
 ### Github
 
 * [leonid-shevtsov](https://github.com/leonid-shevtsov)
