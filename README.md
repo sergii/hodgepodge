@@ -34,6 +34,7 @@ Personal
 Company's
 
 * [viget.com/blogs](http://viget.com/blogs)
+* [thoughtbot.com](http://thoughtbot.com)
 * [thunderboltlabs.com/blog](http://thunderboltlabs.com/blog/)
 * [railsware.com/blog](http://railsware.com/blog/)
 * [pivotallabs.com](http://pivotallabs.com)
