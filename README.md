@@ -62,6 +62,7 @@ Company's
 * [blog.codeschool.com](http://blog.codeschool.com/)
 * [alfajango.com/blog](http://www.alfajango.com/blog)
 * [reverbhq.com](http://reverbhq.com/)
+* [blog.firmhouse.com](http://blog.firmhouse.com/)
 
 Interesting Resourses
 
