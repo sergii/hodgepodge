@@ -65,6 +65,7 @@ Company's
 * [blog.firmhouse.com](http://blog.firmhouse.com/)
 * [smashingboxes.com/blog](http://www.smashingboxes.com/blog)
 * [blog.crowdint.com](http://blog.crowdint.com/)
+* [jetrockets.ru](http://www.jetrockets.ru/)
 
 ### Interesting Resourses
 
