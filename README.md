@@ -64,6 +64,7 @@ Company's
 * [reverbhq.com](http://reverbhq.com/)
 * [blog.firmhouse.com](http://blog.firmhouse.com/)
 * [smashingboxes.com/blog](http://www.smashingboxes.com/blog)
+* [blog.crowdint.com](http://blog.crowdint.com/)
 
 Interesting Resourses
 
