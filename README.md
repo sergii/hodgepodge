@@ -63,6 +63,7 @@ Company's
 * [alfajango.com/blog](http://www.alfajango.com/blog)
 * [reverbhq.com](http://reverbhq.com/)
 * [blog.firmhouse.com](http://blog.firmhouse.com/)
+* [smashingboxes.com/blog](http://www.smashingboxes.com/blog)
 
 Interesting Resourses
 
