@@ -66,7 +66,7 @@ Company's
 * [smashingboxes.com/blog](http://www.smashingboxes.com/blog)
 * [blog.crowdint.com](http://blog.crowdint.com/)
 
-Interesting Resourses
+### Interesting Resourses
 
 * [agiledesigners.com](http://www.agiledesigners.com/)
 * [forrst.com](http://forrst.com)
@@ -77,12 +77,12 @@ Interesting Resourses
 * [thunderboltlabs](thunderboltlabs)
 * [seesparkbox.com/about](http://seesparkbox.com/about)_
 
-I18n
+### I18n
 
 * [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
 * [robots.thoughtbot.com/introducing-copycopter](http://robots.thoughtbot.com/introducing-copycopter)
 
-Training Program
+### Training Program
 
 * [thisismetis.com](http://www.thisismetis.com/)
 
@@ -93,6 +93,13 @@ Training Program
 * [evilmartians](https://github.com/evilmartians)
 * [smartkiosk](https://github.com/smartkiosk)
 * [github.com/RailsApps](https://github.com/RailsApps)
+
+### E-Commerse
+
+* [highwire.com](http://www.highwire.com/)
+* [spreecommerce.com](http://spreecommerce.com/)
+* [shopify.com](http://www.shopify.com/)
+
 
 # Unsorted
 
