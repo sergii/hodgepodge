@@ -100,6 +100,10 @@ Company's
 * [spreecommerce.com](http://spreecommerce.com/)
 * [shopify.com](http://www.shopify.com/)
 
+Examples
+
+* [bluebottlecoffee.com](http://www.bluebottlecoffee.com/)
+
 
 # Unsorted
 
