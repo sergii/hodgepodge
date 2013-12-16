@@ -108,7 +108,33 @@ Examples
 * [bluebottlecoffee.com](http://www.bluebottlecoffee.com/)
 
 
-# Unsorted
+# Ruby & Rails Interactive Learning
+
+BitNami
+Codecademy
+Hackety Hack
+KidsRuby
+Rails for Zombies
+Ruby Koans
+RubyMonk
+Try Ruby
+
+# Online Tutorial
+
+DevChix
+Official Ruby on Rails Guides
+Programming Ruby
+Ruby Learning
+Rails Tutorial
+
+# Full courses (schools)
+
+http://adadevelopersacademy.org/
+http://blazingcloud.eventbrite.com/
+http://jumpstartlab.com/
+http://www.starterleague.com/
+
+### Unsorted
 
 * http://www.ozon.ru/context/detail/id/1573723/
 * http://habrahabr.ru/post/120079/
