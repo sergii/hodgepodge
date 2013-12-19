@@ -68,6 +68,7 @@ Company's
 * [blog.crowdint.com](http://blog.crowdint.com/)
 * [jetrockets.ru](http://www.jetrockets.ru/)
 * [wildbit.com/blog](http://wildbit.com/blog/)
+* [netguru.co/blog](https://netguru.co/blog)
 
 ### Interesting Resourses
 
