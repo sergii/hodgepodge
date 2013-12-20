@@ -83,6 +83,8 @@ Company's
 * [gorails.com](http://gorails.com/)
 * [generalassemb.ly/education/introduction-to-ruby-on-rails-weekend-workshop/new-york-city/3677](https://generalassemb.ly/education/introduction-to-ruby-on-rails-weekend-workshop/new-york-city/3677)
 * [startupinstitute.com](http://startupinstitute.com/)
+* [flatironschool.com](http://flatironschool.com)
+
 ### I18n
 
 * [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
