@@ -81,6 +81,7 @@ Company's
 * [thunderboltlabs](thunderboltlabs)
 * [seesparkbox.com/about](http://seesparkbox.com/about)_
 * [gorails.com](http://gorails.com/)
+* [generalassemb.ly/education/introduction-to-ruby-on-rails-weekend-workshop/new-york-city/3677](https://generalassemb.ly/education/introduction-to-ruby-on-rails-weekend-workshop/new-york-city/3677)
 
 ### I18n
 
