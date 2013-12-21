@@ -69,6 +69,7 @@ Company's
 * [jetrockets.ru](http://www.jetrockets.ru/)
 * [wildbit.com/blog](http://wildbit.com/blog/)
 * [netguru.co/blog](https://netguru.co/blog)
+* [12spokes.com](http://www.12spokes.com/)
 
 ### Interesting Resourses
 
