@@ -32,6 +32,7 @@ Personal
 * [tech.tulentsev.com](http://tech.tulentsev.com/)
 * [esergeev.ru](http://esergeev.ru/)
 * [joefiorini.com](http://joefiorini.com/)
+* [yhagio.github.io (full stack info)](http://yhagio.github.io)
 
 Company's
 
