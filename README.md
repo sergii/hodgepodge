@@ -73,6 +73,7 @@ Company's
 * [netguru.co/blog](https://netguru.co/blog)
 * [12spokes.com](http://www.12spokes.com/)
 * [teamtreehouse.com](https://teamtreehouse.com)
+* [brandymint.ru](http://brandymint.ru)
 
 ### Interesting Resourses
 
