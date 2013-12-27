@@ -33,6 +33,7 @@ Personal
 * [esergeev.ru](http://esergeev.ru/)
 * [joefiorini.com](http://joefiorini.com/)
 * [yhagio.github.io (full stack info)](http://yhagio.github.io)
+* [jessewolgamott.com](http://jessewolgamott.com/)
 
 Company's
 
