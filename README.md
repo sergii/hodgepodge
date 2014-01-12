@@ -75,6 +75,7 @@ Company's
 * [12spokes.com](http://www.12spokes.com/)
 * [teamtreehouse.com](https://teamtreehouse.com)
 * [brandymint.ru](http://brandymint.ru)
+* [blog.endpoint.com](http://blog.endpoint.com/)
 
 ### Interesting Resourses
 
