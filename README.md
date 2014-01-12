@@ -87,12 +87,13 @@ Company's
 * [sitepoint.com](http://www.sitepoint.com)
 * [thunderboltlabs](thunderboltlabs)
 * [thunderboltlabs](thunderboltlabs)
-* [seesparkbox.com/about](http://seesparkbox.com/about)_
+* [seesparkbox.com/about](http://seesparkbox.com/about)
 * [gorails.com](http://gorails.com/)
 * [generalassemb.ly/education/introduction-to-ruby-on-rails-weekend-workshop/new-york-city/3677](https://generalassemb.ly/education/introduction-to-ruby-on-rails-weekend-workshop/new-york-city/3677)
 * [startupinstitute.com](http://startupinstitute.com/)
 * [flatironschool.com](http://flatironschool.com)
 * [learnable.com](https://learnable.com)
+* [codefellows.org/blogs/this-is-why-learning-rails-is-hard](https://www.codefellows.org/blogs/this-is-why-learning-rails-is-hard)
 
 ### I18n
 
