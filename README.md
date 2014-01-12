@@ -34,6 +34,7 @@ Personal
 * [joefiorini.com](http://joefiorini.com/)
 * [yhagio.github.io (full stack info)](http://yhagio.github.io)
 * [jessewolgamott.com](http://jessewolgamott.com/)
+* [brettu.com/rails-daily-ruby-tip-32-simple-ruby-class-for-sending-sms-with-twilio](http://brettu.com/rails-daily-ruby-tip-32-simple-ruby-class-for-sending-sms-with-twilio/)
 
 Company's
 
