@@ -77,6 +77,7 @@ Company's
 * [teamtreehouse.com](https://teamtreehouse.com)
 * [brandymint.ru](http://brandymint.ru)
 * [blog.endpoint.com](http://blog.endpoint.com/)
+* [lostechies.com](http://lostechies.com/)
 
 ### Interesting Resourses
 
