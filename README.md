@@ -164,6 +164,12 @@ http://www.starterleague.com/
 * http://www.alfajango.com/blog/rails-3-remote-links-and-forms/
 * http://www.alfajango.com/blog/rails-3-remote-links-and-forms-data-type-with-jquery/
 
+### Services
+
+## Logs
+
+[logentries.com](https://logentries.com)
+
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sergii/hodgepodge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
