@@ -78,6 +78,7 @@ Company's
 * [brandymint.ru](http://brandymint.ru)
 * [blog.endpoint.com](http://blog.endpoint.com/)
 * [lostechies.com](http://lostechies.com/)
+* [reinteractive.net/blog](http://www.reinteractive.net/blog)
 
 ### Interesting Resourses
 
