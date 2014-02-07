@@ -79,6 +79,8 @@ Company's
 * [blog.endpoint.com](http://blog.endpoint.com/)
 * [lostechies.com](http://lostechies.com/)
 * [reinteractive.net/blog](http://www.reinteractive.net/blog)
+* [devblog.reverb.com](http://devblog.reverb.com/)
+* [xrono.org/blog](http://www.xrono.org/blog)
 
 ### Interesting Resourses
 
