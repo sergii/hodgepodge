@@ -36,6 +36,8 @@ Personal
 * [jessewolgamott.com](http://jessewolgamott.com/)
 * [brettu.com/rails-daily-ruby-tip-32-simple-ruby-class-for-sending-sms-with-twilio](http://brettu.com/rails-daily-ruby-tip-32-simple-ruby-class-for-sending-sms-with-twilio/)
 * [developerminutes.com](http://developerminutes.com/)
+* [justinweiss.com/blog](http://www.justinweiss.com/blog)
+* [danrodriguez.me](http://danrodriguez.me)
 
 Company's
 
