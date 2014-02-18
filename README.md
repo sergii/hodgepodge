@@ -166,9 +166,14 @@ http://www.starterleague.com/
 * http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
 * http://everydayrails.com/2012/03/12/testing-series-rspec-setup.html
 * http://erik.debill.org/2011/03/26/csing-backup-with-rails
-* http://railsadventures.wordpress.com/2013/09/25/11-steps-to-make-your-rspec-specs-awesome/?utm_source=rubyweekly&utm_medium=email
+* http://railsadventures.wordpress.com/2013/09/25/11-steps-to-make-your-rspec-specs-awesome
 * http://www.alfajango.com/blog/rails-3-remote-links-and-forms/
 * http://www.alfajango.com/blog/rails-3-remote-links-and-forms-data-type-with-jquery/
+* http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker
+* http://girders.org/blog/2014/02/06/setup-rails-41-spring-rspec-and-guard
+* http://www.amberbit.com/blog/2014/2/12/automate-tasks-on-the-web-with-ruby-and-capybara
+* http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/
+* http://tech.taskrabbit.com/blog/2014/02/11/rails-4-engines
 
 ### Services
 
