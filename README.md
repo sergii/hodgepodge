@@ -38,6 +38,8 @@ Personal
 * [developerminutes.com](http://developerminutes.com/)
 * [justinweiss.com/blog](http://www.justinweiss.com/blog)
 * [danrodriguez.me](http://danrodriguez.me)
+* [justinweiss.com/blog](http://www.justinweiss.com/blog)
+* [danrodriguez.me](http://danrodriguez.me)
 
 Company's
 
