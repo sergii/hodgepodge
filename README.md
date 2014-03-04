@@ -179,6 +179,8 @@ http://www.starterleague.com/
 
 * http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/
 
+* http://www.takeofflabs.com/posts/2-Pop-Up-Notifications-in-Rails
+
 ### Services
 
 ## Logs
