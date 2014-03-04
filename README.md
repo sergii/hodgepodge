@@ -177,6 +177,8 @@ http://www.starterleague.com/
 * http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/
 * http://tech.taskrabbit.com/blog/2014/02/11/rails-4-engines
 
+* http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/
+
 ### Services
 
 ## Logs
