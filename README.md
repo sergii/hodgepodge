@@ -181,6 +181,9 @@ http://www.starterleague.com/
 
 * http://www.takeofflabs.com/posts/2-Pop-Up-Notifications-in-Rails
 
+### Test
+* http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
+
 ### Services
 
 ## Logs
