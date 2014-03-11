@@ -180,6 +180,7 @@ http://www.starterleague.com/
 * http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/
 
 * http://www.takeofflabs.com/posts/2-Pop-Up-Notifications-in-Rails
+* http://www.brownwebdesign.com/blog/logon-as-another-user-in-a-rails-app
 
 ### Test
 * http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
