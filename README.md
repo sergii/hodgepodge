@@ -181,6 +181,7 @@ http://www.starterleague.com/
 
 * http://www.takeofflabs.com/posts/2-Pop-Up-Notifications-in-Rails
 * http://www.brownwebdesign.com/blog/logon-as-another-user-in-a-rails-app
+* http://brandonhilkert.com/blog/why-i-wrote-the-sucker-punch-gem
 
 ### Test
 * http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
