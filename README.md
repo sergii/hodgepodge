@@ -86,6 +86,7 @@ Company's
 * [reinteractive.net/blog](http://www.reinteractive.net/blog)
 * [devblog.reverb.com](http://devblog.reverb.com/)
 * [! xrono.org/blog](http://www.xrono.org/blog)
+* [quickleft.com/blog](http://quickleft.com/blog)
 
 ### Interesting Resourses
 
