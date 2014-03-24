@@ -186,6 +186,8 @@ http://www.starterleague.com/
 * http://brandonhilkert.com/blog/why-i-wrote-the-sucker-punch-gem
 
 * http://pivotallabs.com/sass-with-bootstrap/
+
+* http://joanswork.com/devise-usage-tracking/
 ### Test
 * http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
 
