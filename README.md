@@ -106,6 +106,10 @@ Company's
 * [learnable.com](https://learnable.com)
 * [codefellows.org/blogs/this-is-why-learning-rails-is-hard](https://www.codefellows.org/blogs/this-is-why-learning-rails-is-hard)
 
+### Omniauth
+
+* http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
+
 ### I18n
 
 * [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
@@ -188,7 +192,7 @@ http://www.starterleague.com/
 * http://pivotallabs.com/sass-with-bootstrap/
 
 * http://joanswork.com/devise-usage-tracking/
-* http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
+
 ### Test
 * http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
 
