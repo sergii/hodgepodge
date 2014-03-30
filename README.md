@@ -188,6 +188,7 @@ http://www.starterleague.com/
 * http://pivotallabs.com/sass-with-bootstrap/
 
 * http://joanswork.com/devise-usage-tracking/
+* http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
 ### Test
 * http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
 
