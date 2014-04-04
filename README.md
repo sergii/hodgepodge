@@ -193,8 +193,17 @@ http://www.starterleague.com/
 
 * http://joanswork.com/devise-usage-tracking/
 
+* https://news.ycombinator.com/item?id=7335211 (Rails – The Missing Parts)
+
 ### Test
 * http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html
+
+## Cucumber
+* https://cucumber.pro/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool.html
+* http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off
+
+## Rspec
+* http://blog.joshsoftware.com/2013/11/23/pro-tips-for-writing-better-rspec-tests/
 
 ### Services
 
