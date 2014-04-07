@@ -201,6 +201,7 @@ http://www.starterleague.com/
 ## Cucumber
 * https://cucumber.pro/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool.html
 * http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off
+* http://www.jackkinsella.ie/2011/09/26/why-bother-with-cucumber-testing.html
 
 ## Rspec
 * http://blog.joshsoftware.com/2013/11/23/pro-tips-for-writing-better-rspec-tests/
