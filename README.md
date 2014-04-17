@@ -110,6 +110,10 @@ Company's
 
 * http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
 
+### Postgre SQL
+
+http://tastehoneyco.com/blog/postgresql-array-and-hstore-column-reference
+
 ### I18n
 
 * [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
