@@ -118,6 +118,7 @@ http://tastehoneyco.com/blog/postgresql-array-and-hstore-column-reference
 
 * [phraseapp.com](https://phraseapp.com/docs/migration-guides/migrating-from-copycopter)
 * [robots.thoughtbot.com/introducing-copycopter](http://robots.thoughtbot.com/introducing-copycopter)
+* eng.joingrouper.com/blog/2014/04/03/rails-internationalization-translation
 
 ### Training Program
 
