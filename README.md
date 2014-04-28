@@ -41,6 +41,7 @@ Personal
 * [justinweiss.com/blog](http://www.justinweiss.com/blog)
 * [danrodriguez.me](http://danrodriguez.me)
 * [appcasts.io](http://appcasts.io)
+* [kconrails.com](http://kconrails.com/)
 
 Company's
 
