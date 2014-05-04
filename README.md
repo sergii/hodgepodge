@@ -42,6 +42,7 @@ Personal
 * [danrodriguez.me](http://danrodriguez.me)
 * [appcasts.io](http://appcasts.io)
 * [kconrails.com](http://kconrails.com/)
+* [ku1ik.com](http://ku1ik.com)
 
 Company's
 
