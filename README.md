@@ -91,6 +91,7 @@ Company's
 * [! xrono.org/blog](http://www.xrono.org/blog)
 * [quickleft.com/blog](http://quickleft.com/blog)
 * [redguava.com.au/blog](http://www.redguava.com.au/blog/)
+* [elabs.se/blog](http://www.elabs.se/blog)
 
 ### Interesting Resourses
 
