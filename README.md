@@ -43,6 +43,7 @@ Personal
 * [appcasts.io](http://appcasts.io)
 * [kconrails.com](http://kconrails.com/)
 * [ku1ik.com](http://ku1ik.com)
+* [codemy.net](http://codemy.net)
 
 Company's
 
