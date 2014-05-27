@@ -44,6 +44,7 @@ Personal
 * [kconrails.com](http://kconrails.com/)
 * [ku1ik.com](http://ku1ik.com)
 * [codemy.net](http://codemy.net)
+* [artemeff.com](http://artemeff.com)
 
 Company's
 
@@ -51,7 +52,7 @@ Company's
 * [thoughtbot.com](http://thoughtbot.com)
 * [thunderboltlabs.com/blog](http://thunderboltlabs.com/blog/)
 * [railsware.com/blog](http://railsware.com/blog/)
-* [pivotallabs.com](http://pivotallabs.com)
+* [pivontallabs.com](http://pivotallabs.com)
   * [pivotallabs.com/tools](http://pivotallabs.com/tools/)
   * [pivotallabs.com/community/](http://pivotallabs.com/community/)
   * [pivotallabs.com/case-studies/](http://pivotallabs.com/case-studies/)
