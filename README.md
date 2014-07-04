@@ -116,6 +116,10 @@ Company's
 
 * http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
 
+### AJAX
+
+* [Easy Ajax Toggle Buttons](http://www.topdan.com/ruby-on-rails/ajax-toggle-buttons.html)
+
 ### Postgre SQL
 
 http://tastehoneyco.com/blog/postgresql-array-and-hstore-column-reference
