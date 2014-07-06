@@ -45,6 +45,7 @@ Personal
 * [ku1ik.com](http://ku1ik.com)
 * [codemy.net](http://codemy.net)
 * [artemeff.com](http://artemeff.com)
+* [tomdallimore.com (!json!)](http://tomdallimore.com/blog)
 
 Company's
 
