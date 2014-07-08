@@ -95,6 +95,7 @@ Company's
 * [quickleft.com/blog](http://quickleft.com/blog)
 * [redguava.com.au/blog](http://www.redguava.com.au/blog/)
 * [elabs.se/blog](http://www.elabs.se/blog)
+* [littlelines.com/blog](http://littlelines.com/blog/)
 
 ### Interesting Resourses
 
