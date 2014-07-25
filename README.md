@@ -3,6 +3,8 @@ HodgePodge
 
 Collect all interesting information from the world of RoR Development
 
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
 ### Blogs
 
 Personal
