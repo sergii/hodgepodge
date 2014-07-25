@@ -98,6 +98,7 @@ Company's
 * [redguava.com.au/blog](http://www.redguava.com.au/blog/)
 * [elabs.se/blog](http://www.elabs.se/blog)
 * [littlelines.com/blog](http://littlelines.com/blog/)
+* [blog.yanted.com](http://blog.yanted.com/)
 
 ### Interesting Resourses
 
