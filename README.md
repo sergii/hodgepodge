@@ -48,6 +48,7 @@ Personal
 * [codemy.net](http://codemy.net)
 * [artemeff.com](http://artemeff.com)
 * [tomdallimore.com (!json!)](http://tomdallimore.com/blog)
+* [thelucid.com](http://thelucid.com/)
 
 Company's
 
