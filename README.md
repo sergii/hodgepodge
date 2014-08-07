@@ -4,6 +4,7 @@ HodgePodge
 Collect all interesting information from the world of RoR Development
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [master-ruby](https://masteruby.github.io/weekly-rails/2014/08/05/how-to-add-voting-to-rails-app.html#.U-PEzh9tjJ8)
 
 ### Blogs
 
