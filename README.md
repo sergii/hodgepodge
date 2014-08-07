@@ -124,6 +124,10 @@ Company's
 
 * http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
 
+### Chat
+
+* http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails
+
 ### Validation
 
 * http://viget.com/extend/seven-useful-activemodel-validators
