@@ -49,6 +49,7 @@ Personal
 * [artemeff.com](http://artemeff.com)
 * [tomdallimore.com (!json!)](http://tomdallimore.com/blog)
 * [thelucid.com](http://thelucid.com/)
+* [eggsonbread.com](http://eggsonbread.com/)
 
 Company's
 
@@ -121,6 +122,10 @@ Company's
 ### Omniauth
 
 * http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/
+
+### Validation
+
+* http://viget.com/extend/seven-useful-activemodel-validators
 
 ### AJAX
 
