@@ -133,7 +133,11 @@ Company's
 
 ### Postgre SQL
 
-http://tastehoneyco.com/blog/postgresql-array-and-hstore-column-reference
+* http://tastehoneyco.com/blog/postgresql-array-and-hstore-column-reference
+
+### Google Analitycs
+
+* http://blog.twygmbh.ch/google-analytics-api-access-with-ruby
 
 ### I18n
 
