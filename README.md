@@ -163,6 +163,10 @@ Company's
 * [spreecommerce.com](http://spreecommerce.com/)
 * [shopify.com](http://www.shopify.com/)
 
+### Deploy
+
+* www.gotealeaf.com/blog/deploy-rails-apps-with-capistrano
+
 Examples
 
 * [bluebottlecoffee.com](http://www.bluebottlecoffee.com/)
