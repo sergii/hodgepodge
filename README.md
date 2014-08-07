@@ -50,6 +50,7 @@ Personal
 * [tomdallimore.com (!json!)](http://tomdallimore.com/blog)
 * [thelucid.com](http://thelucid.com/)
 * [eggsonbread.com](http://eggsonbread.com/)
+* [patmaddox.com](http://patmaddox.com/)
 
 Company's
 
