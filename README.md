@@ -52,6 +52,7 @@ Personal
 * [thelucid.com](http://thelucid.com/)
 * [eggsonbread.com](http://eggsonbread.com/)
 * [patmaddox.com](http://patmaddox.com/)
+* [yehudakatz.com](http://yehudakatz.com/)
 
 Company's
 
