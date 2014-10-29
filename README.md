@@ -53,6 +53,7 @@ Personal
 * [eggsonbread.com](http://eggsonbread.com/)
 * [patmaddox.com](http://patmaddox.com/)
 * [yehudakatz.com](http://yehudakatz.com/)
+* [railstips.org](http://www.railstips.org/)
 
 Company's
 
