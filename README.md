@@ -54,6 +54,7 @@ Personal
 * [patmaddox.com](http://patmaddox.com/)
 * [yehudakatz.com](http://yehudakatz.com/)
 * [railstips.org](http://www.railstips.org/)
+* [johnnunemaker.com](http://johnnunemaker.com/)
 
 Company's
 
