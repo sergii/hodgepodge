@@ -55,6 +55,7 @@ Personal
 * [yehudakatz.com](http://yehudakatz.com/)
 * [railstips.org](http://www.railstips.org/)
 * [johnnunemaker.com](http://johnnunemaker.com/)
+* [https://github.com/PikachuEXE/rails-best-practice](https://github.com/PikachuEXE/rails-best-practice)
 
 Company's
 
