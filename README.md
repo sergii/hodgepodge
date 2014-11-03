@@ -56,6 +56,8 @@ Personal
 * [railstips.org](http://www.railstips.org/)
 * [johnnunemaker.com](http://johnnunemaker.com/)
 * [https://github.com/PikachuEXE/rails-best-practice](https://github.com/PikachuEXE/rails-best-practice)
+* [logicalgroove.com](http://www.logicalgroove.com)
+* [active-bridge.com](http://active-bridge.com)
 
 Company's
 
