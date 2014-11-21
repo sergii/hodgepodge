@@ -110,6 +110,7 @@ Company's
 * [littlelines.com/blog](http://littlelines.com/blog/)
 * [blog.yanted.com](http://blog.yanted.com/)
 * [quickleft.com](http://quickleft.com)
+* [oozou.com](http://oozou.com)
 
 ### Interesting Resourses
 
