@@ -58,6 +58,7 @@ Personal
 * [https://github.com/PikachuEXE/rails-best-practice](https://github.com/PikachuEXE/rails-best-practice)
 * [logicalgroove.com](http://www.logicalgroove.com)
 * [active-bridge.com](http://active-bridge.com)
+* [richonrails.com](http://richonrails.com)
 
 Company's
 
