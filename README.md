@@ -112,6 +112,7 @@ Company's
 * [blog.yanted.com](http://blog.yanted.com/)
 * [quickleft.com](http://quickleft.com)
 * [oozou.com](http://oozou.com)
+* [blog.sensible.io](http://blog.sensible.io/)
 
 ### Interesting Resourses
 
