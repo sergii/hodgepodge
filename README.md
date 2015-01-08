@@ -114,6 +114,7 @@ Company's
 * [oozou.com](http://oozou.com)
 * [blog.sensible.io](http://blog.sensible.io/)
 * [flatstack.com](http://www.flatstack.com/) #BEST
+* [blog.smartlogic.io](http://blog.smartlogic.io)
 
 ### Interesting Resourses
 
